@@ -1,0 +1,6 @@
+@audio_converter_HostAddress = http://localhost:5267
+
+GET {{audio_converter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
