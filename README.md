@@ -1,7 +1,7 @@
 # Audio Converter
 
 ## Introduction
-A simple audio converter powered by **FFmpeg**.  
+An audio converting web application powered by **FFmpeg**.  
 
 
 ---
