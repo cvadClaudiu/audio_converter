@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\audio_converter",
-    "\\converter_frontend"
+    "\\audio_converter\\Controllers",
+    "\\audio_converter\\Properties",
+    "\\converted",
+    "\\converter_frontend",
+    "\\converter_frontend\\src",
+    "\\converter_frontend\\src\\components"
   ],
+  "SelectedNode": "\\converter_frontend\\src\\components\\ChooseFile.jsx",
   "PreviewInSolutionExplorer": false
 }
