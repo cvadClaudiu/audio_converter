@@ -3,8 +3,9 @@
     "",
     "\\public",
     "\\src",
+    "\\src\\assets",
     "\\src\\components"
   ],
-  "SelectedNode": "\\src\\components\\ConvertButton.jsx",
+  "SelectedNode": "\\public\\roughICON.png",
   "PreviewInSolutionExplorer": false
 }
