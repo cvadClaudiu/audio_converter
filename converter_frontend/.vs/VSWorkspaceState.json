@@ -4,8 +4,9 @@
     "\\public",
     "\\src",
     "\\src\\assets",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\components\\BgColor"
   ],
-  "SelectedNode": "\\public\\roughICON.png",
+  "SelectedNode": "\\src\\App.jsx",
   "PreviewInSolutionExplorer": false
 }

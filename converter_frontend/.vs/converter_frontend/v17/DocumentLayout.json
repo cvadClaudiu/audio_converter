@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\AIA\\0Proiecte\\RE_converter\\converter_frontend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AIA\\0Proiecte\\RE_converter\\converter_frontend\\src\\components\\BgColor\\BgColorButton.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\BgColor\\BgColorButton.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AIA\\0Proiecte\\RE_converter\\converter_frontend\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BgColorButton.jsx",
+              "DocumentMoniker": "C:\\AIA\\0Proiecte\\RE_converter\\converter_frontend\\src\\components\\BgColor\\BgColorButton.jsx",
+              "RelativeDocumentMoniker": "src\\components\\BgColor\\BgColorButton.jsx",
+              "ToolTip": "C:\\AIA\\0Proiecte\\RE_converter\\converter_frontend\\src\\components\\BgColor\\BgColorButton.jsx",
+              "RelativeToolTip": "src\\components\\BgColor\\BgColorButton.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-17T14:39:06.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\AIA\\0Proiecte\\RE_converter\\converter_frontend\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\AIA\\0Proiecte\\RE_converter\\converter_frontend\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-08-16T14:04:50.462Z",
               "EditorCaption": ""
